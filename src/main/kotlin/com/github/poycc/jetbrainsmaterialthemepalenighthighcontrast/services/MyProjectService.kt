@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.poycc.jetbrainsmaterialthemepalenighthighcontrast.services
 
+import com.github.poycc.jetbrainsmaterialthemepalenighthighcontrast.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
